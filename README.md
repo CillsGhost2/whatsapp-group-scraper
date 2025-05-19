@@ -75,3 +75,15 @@ Print 'Pagina_Grupo_Exemplo123.png'
 - Prints são úteis para auditoria e verificação manual dos resultados.
 
 ---
+
+## Sobre mim
+
+Desenvolvedor formado em Desenvolvimento de Sistemas, com foco em segurança, automação e curiosidade por APIs. Conhecimentos em:
+
+`PHP` • `SQL` • `Firebase` • `HTML` • `CSS` • `JavaScript` • `Flutter` • `Python`
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
